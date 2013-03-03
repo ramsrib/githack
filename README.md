@@ -1,4 +1,4 @@
 githack
 =======
 
-Git Hack
+Git Hack : Tutorial
